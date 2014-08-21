@@ -1,4 +1,4 @@
 testGitHub
 ==========
 
-this is just simple test
+This is simple repository for testing github
